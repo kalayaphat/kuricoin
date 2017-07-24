@@ -1,0 +1,9 @@
+Building KuriCoin
+
+See doc/readme-qt.rst for instructions on building kuricoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of KuriCoin.
+
+See doc/build-*.txt for instructions on building kuricoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of KuriCoin.

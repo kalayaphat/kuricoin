@@ -1,7 +1,7 @@
-FooCoin (FOO)
+KuriCoin (KUC)
 ===========
 
-[![Build Status](https://travis-ci.org/RazorLove/foocoin.png?branch=master)](https://travis-ci.org/RazorLove/foocoin)
+[![Build Status](https://travis-ci.org/RazorLove/kuricoin.png?branch=master)](https://travis-ci.org/RazorLove/kuricoin)
 
 
 Scrypt Hashcash PoW Template# kuricoin
